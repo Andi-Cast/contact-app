@@ -21,10 +21,10 @@ This is the frontend for the Contact Management application, built with React, V
 ## Example Images
 - Main Page
     - This page displays lists all the contacts from the database while having an option to add new contact.
-    - <img src="" height="auto" width="75%">
+    - <img src="https://github.com/Andi-Cast/contact-app/blob/main/example_images/home_page.png" height="auto" width="75%">
 - Edit Contact Page
     - This page is accessed but clicking on the individual contact cards and allows the user to update the contact. 
-    - <img src="" height="auto" width="75%">
+    - <img src="https://github.com/Andi-Cast/contact-app/blob/main/example_images/edit_contact_page.png" height="auto" width="75%">
 
 ## Installation
 
